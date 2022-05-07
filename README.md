@@ -13,8 +13,9 @@ To run the (failing) test:
 ```
 $ yarn test
 ```
-**After implementing your solution, it should pass the unit tests available.** # syngenta-digital-challenge-javascript-hotel-reservation-test-SOLVED
+**After implementing your solution, it should pass the unit tests available.**
 
+# syngenta-digital-challenge-javascript-hotel-reservation-test-SOLVED
 
 SOLVED!
 
