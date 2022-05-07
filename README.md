@@ -18,6 +18,4 @@ $ yarn test
 
 SOLVED!
 
-```
 ![Capturar](https://user-images.githubusercontent.com/52220244/167270347-8496728d-5a43-4687-9647-fa30574684c4.JPG)
-```
